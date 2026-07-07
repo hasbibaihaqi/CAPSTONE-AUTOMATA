@@ -1,3 +1,14 @@
+---
+title: Capstone Automata
+emoji: ⚙️
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.32.0
+app_file: app/app.py
+pinned: false
+---
+
 # Capstone Project: Teori Bahasa & Otomata
 
 Aplikasi web terintegrasi untuk menyimulasikan berbagai konsep utama dalam **Teori Bahasa dan Otomata**. Proyek ini dibangun sebagai syarat pemenuhan tugas Capstone Automata.
