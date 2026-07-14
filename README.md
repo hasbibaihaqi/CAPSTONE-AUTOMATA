@@ -62,5 +62,5 @@ Aplikasi ini terbagi menjadi 4 modul (tab) utama:
    ```
 
 ## Tautan / Referensi
-- **Live Domain App**: [https://nama-domain-anda.my.id](https://nama-domain-anda.my.id) *(Contoh)*
-- **Video Presentasi Demo (YouTube)**: [Tonton di Sini](https://youtube.com) *(Contoh)*
+- **Live Domain App**: http://tugaskuliahinformatika.my.id 
+
